@@ -36,7 +36,7 @@ This repository contains the implementation of various machine learning classifi
 #### Task 4: Naive Bayes
 1. **Heart Disease Dataset:** Use the Heart Disease dataset to train a Gaussian Naive Bayes classifier.
 2. **Cross-Validation:** Compare performance using Micro and Macro average methods.
-3. **Prediction Analysis:** Analyze the differences between the predicted and actual values.
+3. **Prediction Analysis:** Analyze the differences between the predicted and actual values. 
 
 ## Data Information
 
